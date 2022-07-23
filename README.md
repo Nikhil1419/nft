@@ -9,13 +9,13 @@ Simple Minting NFT DAPP
 
 install dependencies
 
-http-server
-web3
+> http-server
+> web3
 
 
 start the development server
 
-http-server
+> http-server
 
 
 
