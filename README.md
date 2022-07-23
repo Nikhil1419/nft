@@ -2,6 +2,9 @@
 
 
 Simple Minting NFT DAPP
+
+This project has a NFT minting contract deployed on Rinkeby testnet and simple frontend connected to it.
+
  
 
 
@@ -9,8 +12,9 @@ Simple Minting NFT DAPP
 
 install dependencies
 
-> http-server
-> web3
+npm install http-server
+
+npm install web3
 
 
 start the development server
