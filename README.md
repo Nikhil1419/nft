@@ -1,30 +1,23 @@
-##MINTING NFT
+
 
 
 Simple Minting NFT DAPP
-
+ 
 
 
 ## Quick Start
 
-install dependencies using **yarn**
+install dependencies
 
-```sh
-yarn
-```
+http-server
+web3
+
 
 start the development server
-```sh
-yarn dev
-```
 
-build with production mode
-```sh
-yarn build
+http-server
 
-# start the application after build
-yarn start
-```
+
 
 
 
