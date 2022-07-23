@@ -3,4 +3,12 @@
 
 Simple Minting NFT DAPP
 
-DEPENDENDIES
+
+
+
+
+
+
+
+
+
