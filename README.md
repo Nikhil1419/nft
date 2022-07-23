@@ -1,2 +1,2 @@
-Minting NFT
+#MINTING NFT
 
