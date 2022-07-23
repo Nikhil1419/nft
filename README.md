@@ -2,3 +2,6 @@
 
 
 Simple Minting NFT DAPP
+
+
+#Dependencies
