@@ -3,5 +3,4 @@
 
 Simple Minting NFT DAPP
 
-
-#Dependencies
+DEPENDENDIES
